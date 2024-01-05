@@ -5,7 +5,7 @@
 신규 웹페이지 구축 및 홈페이지 운영을 담당하고 있습니다.
 
 - 주로 사용하는 언어는 JAVASCRIPT, JQUERY 입니다.
-- 포트폴리오 사이트를 찾아와주시면 제가 구축한 프로젝트를 확인하실 수 있습니다.
+- <a href="https://file-keonwoolee-portfolio.netlify.app/html/">포트폴리오 사이트</a>를 찾아와주시면 제가 구축한 프로젝트를 확인하실 수 있습니다.
 
 <!-- <img align="center" src="https://github-readme-stats.vercel.app/api?username=kkeonwoo&repo=github-readme-stats&theme=transparent&hide=stars,contribs&count_private=true" /> -->
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kkeonwoo&theme=transparent" />
