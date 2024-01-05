@@ -2,6 +2,8 @@
 
 - 🔭 I'm currently working as a publisher in ADUP
 
+<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kkeonwoo&repo=github-readme-stats&theme=transparent" />
+
 <div align="center">
   [![kkeonwoo's GitHub stats](https://github-readme-stats.vercel.app/api?username=kkeonwoo&count_private=true&show_icons=true&theme=transparent)]
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kkeonwoo&theme=transparent)]
