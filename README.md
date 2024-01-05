@@ -1,5 +1,5 @@
 ### 안녕하세요! 👋👋👋
-주로 <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML&logoColor=#fff"/>, <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS&logoColor=#fff"/>, <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=#fff"/>를 활용하여 웹페이지를 만드는 퍼블리셔 이건우입니다.  
+주로 <img src="https://img.shields.io/badge/html-E34F26?style=flat-square&logo=html&logoColor=white"/>, <img src="https://img.shields.io/badge/css-1572B6?style=flat-square&logo=css&logoColor=white"/>, <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=white"/>를 활용하여 웹페이지를 만드는 퍼블리셔 이건우입니다.  
 현재는 애드업의 디지털 컨텐츠 전략 연구실의 퍼블리셔 팀원으로서  
 신규 웹페이지 구축 및 홈페이지 운영을 담당하고 있습니다.
 
