@@ -4,7 +4,7 @@
 신규 웹페이지 구축 및 홈페이지 운영을 담당하고 있습니다.
 
 - 주로 사용하는 언어는 <img src="https://img.shields.io/badge/jquery-0769AD?style=flat-square&logo=jquery&logoColor=#fff"/> 입니다.
-- <a href="https://keonwoolee.netlify.app/html/">포트폴리오 사이트</a>를 찾아와주시면 제가 구축한 프로젝트를 확인하실 수 있습니다.
+- <a href="https://keonwoolee.netlify.app/">포트폴리오 사이트</a>를 찾아와주시면 제가 구축한 프로젝트를 확인하실 수 있습니다.
 
 <!-- <img align="center" src="https://github-readme-stats.vercel.app/api?username=kkeonwoo&repo=github-readme-stats&theme=transparent&hide=stars,contribs&count_private=true" /> -->
 <!--<div align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kkeonwoo&theme=transparent&langs_count=6&layout=compact" /></div>
